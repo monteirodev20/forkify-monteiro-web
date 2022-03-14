@@ -1,6 +1,6 @@
 # forkify Project
 
-Recipe application with custom recipe uploads.
+ O forkify é um webApp de receitas com uploads de receitas personalizadas.
 
 ## Habilidades
 - OOP moderno: classes, construtores, herança prototípica, encapsulamento, etc.
